@@ -1,0 +1,7 @@
+Sample Testcase Polynomial Coefficients:
+1 -23 160 -336 
+
+Quadratic Equation: f(x) = 1x^2 + -11x + 28
+Constant term c = 28
+Discriminant D = 9
+f(26) = 418
